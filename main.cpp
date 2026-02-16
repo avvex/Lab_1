@@ -3,6 +3,7 @@ void FFFFAAA()
 {
 
 }
+
 int main(int argc, char *argv[])
 {
     QCoreApplication a(argc, argv);
@@ -11,3 +12,8 @@ int main(int argc, char *argv[])
 
 //    return 0;
 }
+
+
+//zhsdvf
+//    dgrmbsjdk
+//    dfkgnsdjk
