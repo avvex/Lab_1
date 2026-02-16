@@ -4,6 +4,8 @@ void FFFFAAA()
 
 }
 
+//    serglkjdi
+//smngf
 int main(int argc, char *argv[])
 {
     QCoreApplication a(argc, argv);
